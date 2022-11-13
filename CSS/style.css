@@ -1,0 +1,23 @@
+.P1 {
+  padding: 25px;
+  border: 3px 3px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  line-height: 40px;
+}
+
+.P2 {
+  padding: 25px;
+  border: 3px 3px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 40px;
+}
+
+.P3 {
+  padding: 25px;
+  border: 3px 3px;
+  margin-bottom: 100px;
+  margin-top: 0px;
+  line-height: 40px;
+}
